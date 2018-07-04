@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "143350928036",
+    "firebase_url": "https://inventariosimples.firebaseio.com",
+    "project_id": "inventariosimples",
+    "storage_bucket": "inventariosimples.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143350928036:android:c0236bf1792fc7ab",
+        "android_client_info": {
+          "package_name": "com.example.tabimeleque.inventariosimples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143350928036-kae0tc1h9t19sc171hl92pb1qrl0u3sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tabimeleque.inventariosimples",
+            "certificate_hash": "00be3670ac149f78471c0ba084f7fae14ac7403a"
+          }
+        },
+        {
+          "client_id": "143350928036-hkedtm4uha09nsbfrofnejcinjl4mo62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8cn5pjNNuaU2JJytLi0VRFQTXnj8-0wQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143350928036-hkedtm4uha09nsbfrofnejcinjl4mo62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
